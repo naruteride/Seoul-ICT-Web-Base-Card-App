@@ -8,6 +8,8 @@ export const Menu = styled.div`
   display: flex; 
   justify-content: center;
   align-items: center;  
+  backdrop-filter: blur(3px);
+  box-shadow: 0 0 1rem -0.5rem rgba(0,0,0,0.2);
 `
 
 export const Items = styled.div`
