@@ -1,6 +1,5 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom';
-import { useSelector } from 'react-redux';
 
 const Detail = (props) => {
   const content = props.content;

@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import { Items, Item, Image, ColorBox } from './styeldComp'
+import { Items, Item, Image } from './styeldComp'
 import { useSelector } from 'react-redux';
 
 const Cards = () => {
